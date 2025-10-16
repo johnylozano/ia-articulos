@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mi Primer Artículo de IA"
+title: "Título del Artículo"
 date: 2025-10-16
 categories: inteligencia-artificial
 ---
