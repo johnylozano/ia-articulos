@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Título del Artículo"
+title: "yyyyyyyyy"
 date: 2025-10-16
 categories: inteligencia-artificial
 ---
