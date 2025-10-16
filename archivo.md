@@ -1,11 +1,17 @@
 ---
-layout: page
+layout: default
 title: "Archivo de Artículos"
 permalink: /archivo/
 ---
 
+# Archivo de Artículos
+
 Aquí encontrarás todos los artículos publicados en este blog:
 
+<ul>
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%d %B %Y" }}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
+  </li>
 {% endfor %}
+</ul>
