@@ -1,4 +1,4 @@
-
+soy JOHNY LOZANOS EXPERTO EN TCIS.
 ---
 layout: post
 title: "Mi Primer Artículo de IA"
