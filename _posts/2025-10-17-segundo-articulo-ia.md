@@ -1,3 +1,10 @@
+--
+layout: post
+title: "Mi SEFUNDO Artículo de IA"
+date: 2025-10-17
+categories: inteligencia-artificial
+---
+
 Verifica qué hay en la raíz
 
 Ve a la raíz del repositorio: https://github.com/johnylozano/ia-articulos
