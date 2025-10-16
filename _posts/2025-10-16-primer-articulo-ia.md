@@ -1,10 +1,11 @@
-soy JOHNY LOZANOS EXPERTO EN TCIS.
 ---
 layout: post
 title: "Mi Primer Artículo de IA"
 date: 2025-10-16
 categories: inteligencia-artificial
 ---
+
+soy JOHNY LOZANOS EXPERTO EN TCIS.
 
 ¡Bienvenido a mi blog tecnológico! Este es mi **primer artículo de investigación** sobre Inteligencia Artificial.  
 
