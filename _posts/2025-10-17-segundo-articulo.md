@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Segundo Artículo IA"
 date: 2025-10-17
 categories: [Inteligencia Artificial, Tecnología]
