@@ -7,7 +7,7 @@ tags: [IA, investigación, educación]
 ---
 
 
-Perfecto! 😄 Vamos a crear un repositorio mínimo de ejemplo que funcione 100% con GitHub Pages y Jekyll, donde todos tus posts se publiquen correctamente y la página de archivo funcione sin 404.
+Perfecto! JOHNY LOZANOS 😄 Vamos a crear un repositorio mínimo de ejemplo que funcione 100% con GitHub Pages y Jekyll, donde todos tus posts se publiquen correctamente y la página de archivo funcione sin 404.
 
 1️⃣ Estructura del repositorio
 ia-articulos/
