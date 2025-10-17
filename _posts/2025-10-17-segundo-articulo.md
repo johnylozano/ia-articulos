@@ -6,5 +6,8 @@ categories: [Inteligencia Artificial, Tecnología]
 tags: [IA, investigación, educación]
 ---
 
-
-Perfecto! JOHNY LOZANOS 😄 Vamos a crear un repositorio mínimo de ejemplo que funcione 100% con GitHub Pages y Jekyll, donde todos tus posts se publiquen correctamente y la página de archivo funcione sin 404.
+La inteligencia artificial puede aplicarse en el ámbito educativo para personalizar el aprendizaje.  
+Los sistemas inteligentes permiten adaptar contenidos según el progreso del estudiante.  
+Además, ayudan a los docentes a identificar fortalezas y debilidades de sus alumnos.  
+Este artículo ejemplifica un caso de uso en la educación.  
+Así demostramos cómo crear un segundo post en el blog.
