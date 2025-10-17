@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Quinto Artículo de Prueba"
+title: "Quinto Artículo IA"
 date: 2025-10-20
+categories: [Inteligencia Artificial, Tecnología]
+tags: [IA, futuro, innovación]
 ---
 
-Este es el quinto artículo de prueba del blog.  
-Sirve para confirmar que los posts nuevos se están mostrando en la lista.  
-Está escrito con el layout **post** para que se muestre correctamente.  
-Debería aparecer en el archivo de artículos junto con los anteriores.  
-Así validamos que la configuración de Jekyll funciona con todos los posts.
+El futuro de la inteligencia artificial se proyecta en múltiples industrias.  
+Se espera una mayor automatización en sectores como salud, transporte y educación.  
+Los avances en IA generarán nuevas oportunidades laborales y de investigación.  
+También surgirán desafíos relacionados con la seguridad y la privacidad.  
+Este post muestra cómo añadir un quinto artículo al blog.
