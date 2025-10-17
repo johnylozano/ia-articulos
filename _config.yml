@@ -3,3 +3,6 @@ description: "Artículos sobre Inteligencia Artificial y Tecnología"
 baseurl: "/ia-articulos" # coincide con tu repo
 url: "https://johnylozano.github.io"
 theme: minima
+
+header_pages:
+  - archivo.md
