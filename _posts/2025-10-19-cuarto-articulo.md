@@ -1,4 +1,4 @@
-layout: default
+layout: post
 title: "agente inteligente"
 date: 2025-10-19
 ---
