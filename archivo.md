@@ -9,7 +9,8 @@ permalink: /archivo/
 Aquí encontrarás todos los artículos publicados en este blog:
 
 <ul>
-{% for post in site.posts %}
+{% assign posts_sorted = site.posts | sort: 'date' | reverse %}
+{% for post in posts_sorted %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
   </li>
