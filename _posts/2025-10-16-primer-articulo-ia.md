@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Primer Artículo sobre Inteligencia Artificial"
 date: 2025-10-16
 categories: [Inteligencia Artificial, Tecnología]
