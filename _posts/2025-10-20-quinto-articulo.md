@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Quinto Artículo sobre IA"
 date: 2025-10-20
 ---
