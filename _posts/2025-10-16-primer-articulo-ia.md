@@ -5,7 +5,7 @@ date: 2025-10-16
 categories: inteligencia-artificial
 ---
 
-soy JOHNY LOZANOS EXPERTO EN TCIS.ddddsadasdasdsadasdsaddsadsadsadsdsassd
+soy JOHNY LOZANOS EXPERTO EN TCIS.ddddsadasdasdsadasdsaddsadsadsadsdsassds
 
 ¡Bienvenido a mi blog tecnológico! Este es mi **primer artículo de investigación** sobre Inteligencia Artificial.  
 
