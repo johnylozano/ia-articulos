@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Concepto de Agente Inteligente"
+title: "agente inteligente"
 date: 2025-10-18
 ---
 
