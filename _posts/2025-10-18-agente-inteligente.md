@@ -9,3 +9,6 @@ Se basa en sensores para recibir información y actuadores para interactuar con 
 Su comportamiento puede ser reactivo o deliberativo, dependiendo de la complejidad del agente.  
 Los agentes inteligentes se aplican en robótica, software educativo y asistentes virtuales.  
 La inteligencia de estos agentes permite automatizar tareas y mejorar la eficiencia de procesos.
+---
+
+Publicado por **Johny Lozano** el 16 de octubre de 2025.
