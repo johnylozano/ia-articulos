@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "xxxxx"
+layout: default
+title: "2do. articulo"
 date: 2025-10-17
 categories: inteligencia-artificial
 ---
