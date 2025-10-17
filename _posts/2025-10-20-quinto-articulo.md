@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Quinto Artículo sobre IA"
+title: "Quinto Artículo de Prueba"
 date: 2025-10-20
 ---
 
-Este artículo muestra cómo agregar un post nuevo correctamente y asegurarse de que aparezca en GitHub Pages sin errores. Permite automatizar la publicación de contenidos en el blog.
+Este es el quinto artículo de prueba del blog.  
+Sirve para confirmar que los posts nuevos se están mostrando en la lista.  
+Está escrito con el layout **post** para que se muestre correctamente.  
+Debería aparecer en el archivo de artículos junto con los anteriores.  
+Así validamos que la configuración de Jekyll funciona con todos los posts.
