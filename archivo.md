@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Archivo de Artículos okkkk"
+title: "Archivo de Artículos"
 permalink: /archivo/
 ---
 
